@@ -1,3 +1,3 @@
 # danger
 
-dont open the .doc file on Windows
+don't open the .doc file on Windows
